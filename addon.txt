@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"No-Collide All"
+	"version"			"1.0"
+	"up_date"			"00/00/00"
+	"author_name"			"TGiFallen"
+	"author_email"			""
+	"author_url"			""
+	"info"				""
+	"override"			"1"
+}
