@@ -8,7 +8,7 @@ TOOL.ClientConVar[ "on" ] = 1
 if ( CLIENT ) then
     language.Add( "Tool.nocollideall_multi.name", "Multi No-Collide All tool" )
     language.Add( "Tool.nocollideall_multi.desc", "Toggle collisions for an entity or a selected set of entities." )
-    language.Add( "Tool.nocollideall_multi.0", "Primary: Select a prop to disable collisions. (Use to select all) Secondary: Confirm and disable collisions. Reload: Clear Targets." )
+    language.Add( "Tool.nocollideall_multi.0", "Primary: Select props (Use to select all). Secondary: Confirm. Reload: Clear Targets." )
 end
 
 TOOL.enttbl = {}
